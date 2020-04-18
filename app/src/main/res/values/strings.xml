@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="item">Enter Item</string>
+    <string name="price">Price</string>
+    <string name="total">Total: </string>
+    <string name="ok">Continue</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="title_activity_overview">OverviewActivity</string>
+
+    <string name="title">Title</string>
+    <string name="id">ID</string>
+    <string name="name">Name: </string>
+    <string name="username">Username: </string>
+    <string name="email">Email: </string>
+    <string name="name_value">Uzoamaka Nweze</string>
+    <string name="username_value">Chelseaquiin</string>
+    <string name="email_value">uzonweze@gmail.com</string>
+    <string name="shopping_list">Shopping List</string>
+</resources>
